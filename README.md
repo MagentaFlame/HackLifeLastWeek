@@ -17,7 +17,10 @@ I also made sure to write my configs down for future reference and to make sure 
 
 
 CAD!
-
+<img width="585" height="557" alt="image" src="https://github.com/user-attachments/assets/1a0f8fa9-3f79-4261-b70f-ee1e9b2aff69" />
+<img width="739" height="674" alt="image" src="https://github.com/user-attachments/assets/f967c31b-b45f-404c-a657-6041ce94b6ec" />
+Okay so I wanted the two sides to be vastly different - one hard and modern, while the other more flowy. But, the flowy side isn't to my liking as much as the geometric side b/c I didn't make it flowy enough lol. Anyways, hopefully the color combos will be good. I add only engravings this time, b/c extra details like changing wall geometry and embossing will take time I don't have unfortunately.
+The pictures show the colors for the cases. The keycaps for the purple side will be gray and more jagged than the red keycaps on the orange side.
 
 BOM!
 
